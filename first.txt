@@ -1,2 +1,19 @@
-hello this test fil e to learn git hub
-first edit by vallabh
+Git Start up Commands
+
+Add file , Edit File ,Commit File, Push File
+
+$ git clone (link of specific repository from git site) 
+
+$ git status 
+
+$ git diff
+
+$ git add .      or $ git add file.txt(File Name)
+
+$ git commit -m "Message is compulsory"
+
+$ git push -u origin main(or other branch name)
+
+
+
+
