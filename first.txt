@@ -1,4 +1,4 @@
-Git Start up Commands
+Git Start up Commands by 22
 
 Add file , Edit File ,Commit File, Push File
 
